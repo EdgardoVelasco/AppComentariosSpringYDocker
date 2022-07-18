@@ -1,0 +1,5 @@
+com\netec\appvolumenesdocker\services\ComentarioServiceImpl.class
+com\netec\appvolumenesdocker\entities\Comentario.class
+com\netec\appvolumenesdocker\services\IComentarioService.class
+com\netec\appvolumenesdocker\controller\HomeController.class
+com\netec\appvolumenesdocker\AppvolumenesdockerApplication.class
